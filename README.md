@@ -26,9 +26,11 @@
 # 3. Data Structure
     There are many approaches to solving this problem. Using brute force (i.e. checking all possible pairs of trees) is one of them. But you should research and implement a better solution.
     
+    MY SOLUTION THE DATA STRUCTURE USING STACK
+    
 # 4. Exception handling
     
-# MY SOLUTION THE DATA STRUCTURE USING STACK
+
     
 
   
