@@ -19,8 +19,8 @@
   
 ## REQUIREMENTS
 # 1. The program must at least
-    - Get number of trees (at least 3) and the height of each tree from user
-    - Given the tree arrangement in (1.1), report all possible tree-pairs and the total number of pairs
+  - Get number of trees (at least 3) and the height of each tree from user
+  - Given the tree arrangement in (1.1), report all possible tree-pairs and the total number of pairs
   
 # 2. Design a better user interface
   - Good user interface doesn’t mean fancy output, but rather how your program is easy to understand & to use even without user manual.
